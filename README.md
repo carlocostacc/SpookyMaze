@@ -1,5 +1,5 @@
 # SpookyMaze
-Maze Game with enemy skeletons that are just chiling
+Maze Game with enemy skeletons that are just chilling
 
 Horror game vibe
 
