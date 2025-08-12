@@ -1,0 +1,11 @@
+DEBUG: OBJ loaded from Models/skeleton2.obj, vertex count = 22134
+DEBUG: First 5 vertex positions:
+  [6e-05, 1.76486, 0.082126]
+  [0.006279, 1.76509, 0.081626]
+  [0.005904, 1.7668, 0.078373]
+  [0.030063, 1.77878, 0.030401]
+  [0.042982, 1.75631, 0.022159]
+DEBUG: minV = [-0.31149, -0.003427, -0.156639]
+DEBUG: maxV = [0.31149, 1.98886, 0.156639]
+DEBUG: maxDim = 1.99229
+DEBUG: VAO = 4

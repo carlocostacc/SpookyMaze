@@ -1,0 +1,11 @@
+DEBUG: OBJ loaded from Models/staff.obj, vertex count = 3762
+DEBUG: First 5 vertex positions:
+  [128.053, 140.462, -0]
+  [128.053, 140.125, -3.4293]
+  [127.384, 140.125, -3.3634]
+  [128.053, 140.462, -0]
+  [127.384, 140.125, -3.3634]
+DEBUG: minV = [110.475, -183.736, -17.5779]
+DEBUG: maxV = [145.631, 140.462, 17.5779]
+DEBUG: maxDim = 324.199
+DEBUG: VAO = 3

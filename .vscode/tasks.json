@@ -1,0 +1,44 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Build with GLFW + GLEW + GLM",
+            "type": "shell",
+            "command": "C:\\msys64\\ucrt64\\bin\\g++.exe",
+            "args": [
+                "-fdiagnostics-color=always",
+                "-g",
+                "main.cpp",
+                "Classes\\Candle.cpp",
+                "Classes\\Pillar.cpp",
+                "Classes\\Projectile.cpp",
+                "Classes\\StandardSkeletonEnemy.cpp",
+                "Classes\\ParticleSystem.cpp",
+                "-o",
+                "main.exe",
+                "-I",
+                "C:\\glfw-3.4.bin.WIN64\\include",
+                "-I",
+                "C:\\stb",
+                "-I",
+                "C:\\glew-2.1.0\\include",
+                "-I",
+                "C:\\glm",
+                "-L",
+                "C:\\glew-2.1.0\\lib\\Release\\x64",
+                "-L",
+                "C:\\glfw-3.4.bin.WIN64\\lib-mingw-w64",
+                "-lglew32",
+                "-lglfw3dll",
+                "-lopengl32",
+                "-DGLEW_STATIC"
+            ],
+            "options": {
+                "cwd": "${workspaceFolder}"
+            },
+            "problemMatcher": [
+                "$gcc"
+            ]
+        }
+    ]
+}

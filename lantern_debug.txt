@@ -1,0 +1,11 @@
+DEBUG: OBJ loaded from Models/lantern2.obj, vertex count = 186030
+DEBUG: First 5 vertex positions:
+  [-1059.19, -1309.12, 0.562591]
+  [-1160.2, -1310.41, 23.8828]
+  [-1162.83, -1310.41, -3.37029]
+  [-1059.19, -1309.12, 0.562591]
+  [-1162.83, -1310.41, -3.37029]
+DEBUG: minV = [-1394.86, -1310.45, -336.407]
+DEBUG: maxV = [-721.158, -140.449, 337.192]
+DEBUG: maxDim = 1170
+DEBUG: VAO = 6
