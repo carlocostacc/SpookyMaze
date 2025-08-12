@@ -7,3 +7,4 @@ you move with wasd keys and look around using the mouse
 left click to shoot fireballs
 
 
+https://github.com/carlocostacc/SpookyMaze/blob/master/screenshots/spawn.png
